@@ -1,0 +1,8 @@
+{
+  "realm": "demo-app",
+  "auth-server-url": "http://localhost:8081/",
+  "ssl-required": "external",
+  "resource": "demo-client",
+  "public-client": true,
+  "confidential-port": 0
+}
